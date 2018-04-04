@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/movi.dir/movimiento.cpp.o  -o movi -rdynamic -lGLU -lGL -lglut -lXmu -lXi 
