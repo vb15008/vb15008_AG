@@ -1,0 +1,3 @@
+/home/aldo/PrgramasOpenGL/movimiento/build/CMakeFiles/rebuild_cache.dir
+/home/aldo/PrgramasOpenGL/movimiento/build/CMakeFiles/edit_cache.dir
+/home/aldo/PrgramasOpenGL/movimiento/build/CMakeFiles/movi.dir

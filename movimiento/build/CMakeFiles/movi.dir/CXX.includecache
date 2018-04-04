@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aldo/PrgramasOpenGL/movimiento/movimiento.cpp
+GL/gl.h
+-
+GL/glu.h
+-
+GL/glut.h
+-
+stdlib.h
+-
+
